@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="card_full_name">Matheus Alves Pereira</string>
+    <string name="card_title">Fullstack developer</string>
+    <string name="contact_phone">+55 (48) 99183-6171</string>
+    <string name="contact_share">\@matheus-alpe</string>
+    <string name="contact_email">matt.alpe.dev@gmail.com</string>
+</resources>
